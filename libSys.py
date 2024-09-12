@@ -1,5 +1,5 @@
 #the array of books
-books = ["poobook", "book", "the best book", "not good book", "new book", "Hyrule Historia"] 
+books = ["poobook", "book", "the best book", "not good book", "new book", "Hyrule Historia", "even newer book"] 
 # Joshua added Hyrule Historia
 
 print("books available: ")
