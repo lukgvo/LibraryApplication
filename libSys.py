@@ -1,3 +1,4 @@
+#the array of books
 books = ["poobook", "book", "the best book", "not good book", "new book"]
 
 print("books available: ")
