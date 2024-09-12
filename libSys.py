@@ -1,5 +1,6 @@
 #the array of books
-books = ["poobook", "book", "the best book", "not good book", "new book"]
+books = ["poobook", "book", "the best book", "not good book", "new book", "Hyrule Historia"] 
+# Joshua added Hyrule Historia
 
 print("books available: ")
 for book in books:
