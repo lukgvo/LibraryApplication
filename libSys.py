@@ -1,7 +1,6 @@
 from book import Book
 
 #the array of books
-# books = ["poobook", "book", "the best book", "not good book", "new book"]
 books = [Book("poobook"), Book("book"), Book("the best book"), Book("not good book"), Book("new book")]
 
 print("books available: ")
