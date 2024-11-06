@@ -1,7 +1,7 @@
 from book import Book
 
 #the array of books
-books = [Book("poobook"), Book("book"), Book("the best book"), Book("not good book"), Book("new book")]
+books = [Book("poobook"), Book("book"), Book("the best book"), Book("not good book"), Book("new book"), Book("test book")]
 
 print("books available: ")
 for book in books:
